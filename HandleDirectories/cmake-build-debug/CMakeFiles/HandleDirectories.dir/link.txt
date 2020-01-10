@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/HandleDirectories.dir/main.cpp.o  -o HandleDirectories.exe -Wl,--out-implib,libHandleDirectories.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -lstdc++fs 
